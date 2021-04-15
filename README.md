@@ -1,8 +1,7 @@
 <div>
 <div align="center" style="position=relative">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SI-Kim's%20Place&fontSize=90&animation=blinking" style="width: 150%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SI-Kim's%20Place&fontSize=90&animation=blinking"/>
 </div>
-	<div/>
 <div align="center" style="position:relative;float:left">
 	
 <a href="https://github.com/SI-Kim" style="left: 200px; top: 450px;">
