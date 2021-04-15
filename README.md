@@ -1,5 +1,5 @@
 <div align=center>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SI-Kim)](https://github.com/SI-Kim?tab=repositories)
+[![SI-Kim's GitHub](https://github-readme-stats.vercel.app/api?username=SI-Kim)](https://github.com/SI-Kim)
 </div>
 <div align=center>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SI-Kim)](https://github.com/anuraghazra/github-readme-stats?count_private=true&show_icons=true&?theme=dracula)
