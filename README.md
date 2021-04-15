@@ -8,10 +8,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SI-Kim&count_private=true&show_icons=true&theme=dracula" />
 </a>
 </div>
-<div>
 <div align="center">
 ### Hi there 👋
 </div>
+	
 <div align="center">
 	<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 	<img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
@@ -28,7 +28,6 @@
 	<img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 	<img alt="TravisCI" src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
 	<img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
-</div>
 </div>
 <div align=center style="position=relative">
 	
