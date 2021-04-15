@@ -1,16 +1,16 @@
 <div>
-<div align=center>
+<div align=center style="position=relative">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SI-Kim&count_private=true&show_icons=true&theme=dracula" />
 </div>
 	<div/>
-<div align=center>
+<div align=center style="position=relative">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SI-Kim)](https://github.com/anuraghazra/github-readme-stats?count_private=true&show_icons=true&?theme=dracula)
 </div>
 <div align=center>
 ### Hi there 👋
 </div>
-<div align=center>
+<div align=center style="position=relative">
 	<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 	<img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 	<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
@@ -28,7 +28,7 @@
 	<img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
 </div>
 
-<div align=center>
+<div align=center style="position=relative">
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSI-Kim&count_bg=%233DC8AF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	
