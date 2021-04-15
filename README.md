@@ -10,6 +10,7 @@
 </div>
 
 <div align="center">
+
 ##Junior developer enjoying new knowledges and skills
 ##Working at SI Company, with Spring Framework
 ##Study various things about backend and frontend things for self-satisfaction after work
