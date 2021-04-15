@@ -16,7 +16,7 @@
 <h4>Study various things about backend and frontend things for self-satisfaction after work</h4>
 </div>
 <br>
-<h4>Interested In...</h4>
+<h4 align="center">Interested In...</h4>
 <br>
 <br>	
 <div align="center">
