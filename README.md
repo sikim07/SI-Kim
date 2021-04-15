@@ -3,14 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SI-Kim's%20Place&fontSize=90&animation=blinking"/>
 </div>
 <div align="center" style="position:relative;float:left">
-	
 <a href="https://github.com/SI-Kim" style="top: 450px;">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SI-Kim&count_private=true&show_icons=true&theme=dracula&hide=prs" />  
 </a>
 </div>
-
 <div align="center">
-
 <h5>Junior developer enjoying new knowledges and skills</h5>
 <h5>Working at SI Company, with Spring Framework</h5>
 <h5>Study various things about backend and frontend things for self-satisfaction after work</h5>
