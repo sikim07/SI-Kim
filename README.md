@@ -4,7 +4,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SI-Kim&count_private=true&show_icons=true&theme=dracula" />
 </div>
 	<div/>
-<div align=center style="position=relative">
+<div align=center style="position=relative; top: 10px">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SI-Kim)](https://github.com/anuraghazra/github-readme-stats?count_private=true&show_icons=true&?theme=dracula)
 </div>
 <div align=center>
