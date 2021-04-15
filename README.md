@@ -12,7 +12,7 @@
 <div align="center">
 ### Hi there 👋
 </div>
-<div align="center" style="position=relative">
+<div align="center" style="position=relative; top: 70px">
 	<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 	<img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 	<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
