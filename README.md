@@ -1,16 +1,16 @@
 <div>
-<div align=center style="position=relative">
+<div align="center" style="position=relative">
 <a href="https://github.com/SI-Kim">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SI-Kim&count_private=true&show_icons=true&theme=dracula" />
 </div>
 	<div/>
-<div align=center style="position=relative; top: 10px">
+<div align="center" style="position=relative; top: 10px">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SI-Kim)](https://github.com/anuraghazra/github-readme-stats?count_private=true&show_icons=true&?theme=dracula)
 </div>
-<div align=center>
+<div align="center">
 ### Hi there 👋
 </div>
-<div align=center style="position=relative">
+<div align="center" style="position=relative">
 	<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 	<img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 	<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
