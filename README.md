@@ -8,16 +8,19 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SI-Kim&count_private=true&show_icons=true&theme=dracula" />  
 </a>
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <div align="center">
-### Hi there 👋
+##Junior developer enjoying new knowledges and skills
+##Working at SI Company, with Spring Framework
+##Study various things about backend and frontend things for self-satisfaction after work
 </div>
-	
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>	
 <div align="center">
 	<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 	<img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
