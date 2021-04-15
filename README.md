@@ -5,7 +5,7 @@
 <div align="center" style="position:relative;float:left">
 	
 <a href="https://github.com/SI-Kim" style="top: 450px;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SI-Kim&count_private=true&show_icons=true&theme=dracula" />  
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SI-Kim&count_private=true&show_icons=true&theme=dracula&hide=prs" />  
 </a>
 </div>
 
