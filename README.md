@@ -3,7 +3,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SI-Kim&count_private=true&show_icons=true&theme=dracula" />
 </div>
-	<br>
+	<div/>
 <div align=center>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SI-Kim)](https://github.com/anuraghazra/github-readme-stats?count_private=true&show_icons=true&?theme=dracula)
 </div>
