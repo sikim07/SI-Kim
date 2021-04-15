@@ -11,11 +11,11 @@
 
 <div align="center">
 
-<h4>Junior developer enjoying new knowledges and skills</h4>
+<h5>Junior developer enjoying new knowledges and skills</h5>
 <br>
-<h4>Working at SI Company, with Spring Framework</h4>
+<h5>Working at SI Company, with Spring Framework</h5>
 <br>
-<h4>Study various things about backend and frontend things for self-satisfaction after work</h4>
+<h5>Study various things about backend and frontend things for self-satisfaction after work</h5>
 </div>
 <br>
 <br>
