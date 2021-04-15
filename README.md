@@ -1,6 +1,6 @@
 <div>
 <div align=center style="position=relative">
-<a href="https://https://github.com/SI-Kim">
+<a href="https://github.com/SI-Kim">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SI-Kim&count_private=true&show_icons=true&theme=dracula" />
 </div>
 	<div/>
