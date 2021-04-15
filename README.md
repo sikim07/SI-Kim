@@ -1,5 +1,5 @@
 <div align=center>
-[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SI-Kim's%Place&fontSize=90&animation=blink)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div align=center>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SI-Kim)](https://github.com/anuraghazra/github-readme-stats?count_private=true&show_icons=true&?theme=dracula)
