@@ -14,6 +14,7 @@
 <h4>Junior developer enjoying new knowledges and skills</h4>
 <h4>Working at SI Company, with Spring Framework</h4>
 <h4>Study various things about backend and frontend things for self-satisfaction after work</h4>
+<h4>Aim for improvement and productivity</h4>
 </div>
 <br>
 <br>
