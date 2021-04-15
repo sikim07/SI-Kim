@@ -8,6 +8,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SI-Kim&count_private=true&show_icons=true&theme=dracula" />  
 </a>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <div align="center">
 ### Hi there 👋
 </div>
