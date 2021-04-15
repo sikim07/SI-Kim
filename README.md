@@ -11,11 +11,11 @@
 
 <div align="center">
 
-Junior developer enjoying new knowledges and skills
+*Junior developer enjoying new knowledges and skills
 <br>
-Working at SI Company, with Spring Framework
+*Working at SI Company, with Spring Framework
 <br>
-Study various things about backend and frontend things for self-satisfaction after work
+*Study various things about backend and frontend things for self-satisfaction after work
 </div>
 <br>
 <br>
