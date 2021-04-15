@@ -12,9 +12,7 @@
 <div align="center">
 
 <h5>Junior developer enjoying new knowledges and skills</h5>
-<br>
 <h5>Working at SI Company, with Spring Framework</h5>
-<br>
 <h5>Study various things about backend and frontend things for self-satisfaction after work</h5>
 </div>
 <br>
