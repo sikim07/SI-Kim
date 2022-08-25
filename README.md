@@ -5,10 +5,10 @@
 </a>
 </div>
 <div align="center">
-<h5>Web developer enjoying new knowledges and skills</h5>
-<h5>Working at food distribution company that under development environment of Vue.JS, Nuxt.JS, Spring Framework, MariaDB</h5>
-<h5>Study various things about frontend and backend things for self-satisfaction after work</h5>
-<h5>Aim for improvement and productivity</h5>
+<h5>Web developer for 3 years enjoying new knowledges and skills.</h5>
+<h5>Working at food distribution company that under development environment of Vue.JS, Nuxt.JS, Spring Framework, MariaDB.</h5>
+<h5>Study various things about frontend and backend things for self-satisfaction after work.</h5>
+<h5>Aiming for limitless improvement and productivity.</h5>
 </div>
 <br>
 <br>
